@@ -1,0 +1,24 @@
+.WhyChooseUs-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border: 3px solid #743089;
+    border-radius: 12px;
+    margin: 10px;
+}
+
+.main {
+    color: #743089;
+}
+
+.icon {
+    font-size: 50px;
+    height: 50px;
+    color: #743089;
+    margin: 10px;
+
+
+}

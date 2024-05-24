@@ -1,0 +1,34 @@
+.custom-navbar {
+    background-color: #743089;
+    display: flex;
+    justify-content: space-between;
+    padding: 7px;
+    align-items: center;
+
+    /* Violet color */
+}
+
+
+.nav-link {
+    color: #ffffff !important;
+    margin-right: 1rem;
+    font-size: 1rem;
+}
+
+.nav-link:hover {
+    color: #d1c4e9 !important;
+    /* Lighter violet for hover effect */
+}
+
+.button {
+    color: #743089;
+    border-color: #6a1b9a;
+    border-width: 1px;
+    padding: 0.5rem 1rem;
+    border-radius: 0.3rem;
+}
+
+.button:hover {
+    background-color: #6a1b9a;
+    color: #ffffff;
+}

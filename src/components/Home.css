@@ -1,0 +1,36 @@
+.page-container {
+    height: 80vh;
+    background-color: white;
+    /* Light gray background */
+    color: #000000;
+    /* Black text color */
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #743089;
+    border-radius: 12px;
+}
+
+.page-container .container {
+    text-align: center;
+}
+
+.main-btn {
+    background-color: #743089;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.main-heading {
+    color: #743089;
+}
+
+.para {
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+}
